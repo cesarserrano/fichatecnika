@@ -51,5 +51,5 @@ if ($conn->query($sql) === TRUE) {
 
 mysqli_close($conn);
 
-header('Location: http://fichatecnika.vitrinum.com');    
+header('Location: http://vitrinum.com/fichatecnika');    
 ?>
